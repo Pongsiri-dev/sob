@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>make</artifactId>
+	<artifactId>sob</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>make</name>
-	<description>Make Demo project for Spring Boot</description>
+	<name>sob</name>
+	<description>ทำแบบทดสอบ</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
